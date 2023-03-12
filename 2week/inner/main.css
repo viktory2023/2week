@@ -46,7 +46,7 @@ p {
 .header {
     height: 120px;
     position: relative;
-    margin-bottom: 66px;
+    margin-bottom: 0 auto;
 }
 
 .logo {
@@ -90,7 +90,7 @@ p {
 .menu__item {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 50px;
+    margin-right: 0 auto;
 }
 
 .menu__item:last-child{
