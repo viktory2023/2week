@@ -412,7 +412,7 @@ p {
 }
 
 .socials__item--icon--telega .socials__link:hover {
-    background-image: url("../logos/t2.png");
+    background-image: url("../logos/t1.png");
 }
 
 .socials__item--icon--vk .socials__link {
@@ -424,11 +424,11 @@ p {
 }
 
 .socials__item--icon--facebook .socials__link {
-    background-image: url("../logos/facebook1.png");
+    background-image: url("../logos/f2.png");
 }
 
 .socials__item--icon--facebook .socials__link:hover {
-    background-image: url("../logos/f2.png");
+    background-image: url("../logos/facebook1.png");
 }
 
 .socials__item--icon--insta .socials__link {
@@ -436,5 +436,5 @@ p {
 }
 
 .socials__item--icon--insta .socials__link:hover {
-    background-image: url("../logos/in2.png");
+    background-image: url("../logos/in1.png");
 }
